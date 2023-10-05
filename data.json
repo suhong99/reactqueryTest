@@ -1,0 +1,40 @@
+{
+  "mypage": {
+    "accom": [
+      {
+        "accomNumber": 0,
+        "accomName": "string1",
+        "accomAddress": "string1",
+        "teleNumber": "string1"
+      },
+      {
+        "accomNumber": 1,
+        "accomName": "string2",
+        "accomAddress": "string2",
+        "teleNumber": "string2"
+      },
+      {
+        "accomNumber": 2,
+        "accomName": "string3",
+        "accomAddress": "string3",
+        "teleNumber": "string3"
+      },
+      {
+        "accomNumber": 3,
+        "accomName": "string3",
+        "accomAddress": "string3",
+        "teleNumber": "string3"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "아하!"
+  }
+}
